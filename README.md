@@ -36,6 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+![udhaya 5 2](https://user-images.githubusercontent.com/119393933/211448097-59b2af28-dc07-4940-9d20-5eb3e74288b1.jpg)
+
 
 
 ## RESULT:
